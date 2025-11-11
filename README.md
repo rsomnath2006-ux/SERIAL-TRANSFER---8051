@@ -56,11 +56,13 @@ while(1);
 
  
 **OUTPUT:**
-<br>
-<br>
-<br>
-<br>
-<br>
+
+Serial port transfer a character A:
+<img width="948" height="156" alt="image" src="https://github.com/user-attachments/assets/08d21f44-ed23-461c-8970-3577403859d8" />
+
+Serial port to Transfer a Message:
+<img width="955" height="187" alt="Screenshot 2025-11-11 083744" src="https://github.com/user-attachments/assets/11db5178-7859-4426-9dbd-6ad1c6d15bc7" />
+
 
 **Result:**
 
